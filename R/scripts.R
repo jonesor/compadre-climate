@@ -1,4 +1,5 @@
-#Selecting study organisms
+# Selecting study organisms
+
 ### libraries
 library(tidyverse)
 library(Rcompadre)
@@ -98,4 +99,8 @@ treatments_check <- comp_sub %>%
   ungroup()
 
 write.csv(treatments_check, "output/treatment_check.csv", row.names = FALSE)
+
+
+
+
 
