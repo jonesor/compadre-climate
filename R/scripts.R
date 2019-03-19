@@ -7,6 +7,7 @@ library(Rage)
 library(popbio)
 library(popdemo)
 library(gridExtra)
+library(maps)
 
 
 ### load compadre data
@@ -52,30 +53,27 @@ comp_ts <- comp_sub %>%
             Ecoregion = unique(Ecoregion),
             OrganismType = unique(OrganismType),
             Authors = unique(Authors)) %>% 
-  ungroup()
+  ungroup() %>% 
+  filter(n_year >= 5)
 
 length(which(comp_ts$n_year >= 5)) # time series >= 5 years
-nrow(comp_ts)                      # total species-sites
 
 # ecoregion counts
 comp_ts %>% 
-  filter(n_year >= 5) %>% 
   count(Ecoregion) %>% 
   arrange(desc(n)) %>% 
   print(n = "all")
 
 # organism type counts
 comp_ts %>% 
-  filter(n_year >= 5) %>% 
   count(OrganismType) %>% 
   arrange(desc(n)) %>% 
   filter(n > 0)
 
 comp_ts %>% 
-  filter(n_year >= 5) %>% 
   count(Authors) %>% 
   arrange(desc(n)) %>% 
-  print(n = "all")
+  print(n = 20)
 
 
 
@@ -99,8 +97,4 @@ treatments_check <- comp_sub %>%
   ungroup()
 
 write.csv(treatments_check, "output/treatment_check.csv", row.names = FALSE)
-
-
-
-
 

@@ -1,140 +1,17 @@
 "SpeciesAuthor","site_id","MatrixTreatment","n_year","Authors","DOI.ISBN"
-"Agave_marmorata",52,"Cutting of flowering stalks",1,"Jiménez-Valdés; Godínez-Alvarez; Caballero; Lira","10.1007/s12231-010-9117-0"
-"Agropyron_cristatum",392,"Clipping",2,"Hansen; Wilson","10.1111/j.1365-2664.2006.01145.x"
-"Agropyron_cristatum",392,"Herbicide",2,"Hansen; Wilson","10.1111/j.1365-2664.2006.01145.x"
-"Ambrosia_dumosa",146,"Influence of neighboring",1,"Miriti; Wright; Howe","10.2307/3100033"
-"Ardisia_escallonioides",106,"15% full sunlight",1,"Pascarella; Horvitz","10.2307/176952"
-"Ardisia_escallonioides",106,"25% full sunlight",1,"Pascarella; Horvitz","10.2307/176952"
-"Ardisia_escallonioides",106,"35% full sunlight",1,"Pascarella; Horvitz","10.2307/176952"
-"Ardisia_escallonioides",106,"45% full sunlight",1,"Pascarella; Horvitz","10.2307/176952"
-"Ardisia_escallonioides",106,"5% full sunlight (closed canopy)",1,"Pascarella; Horvitz","10.2307/176952"
-"Ardisia_escallonioides",106,"55% full sunlight",1,"Pascarella; Horvitz","10.2307/176952"
-"Ardisia_escallonioides",106,"65% full sunlight (open canopy)",1,"Pascarella; Horvitz","10.2307/176952"
-"Ariocarpus_fissuratus",113,"High population density",4,"Mancilla Ramirez",NA
-"Ariocarpus_fissuratus",113,"Low population density",4,"Mancilla Ramirez",NA
-"Aristida_bipartita",13,"Grazing",4,"O'Connor","10.2307/2404276"
-"Armeria_caespitosa",242,"Seedlings emerging from seedbank scenario",3,"Garcia-Camacho; Albert; Escudero","10.1080/17550874.2012.662534"
 "Astragalus_cremnophylax_var._cremnophylax",162,"Protected",4,"Maschinski; Frye; Rutman","10.1046/j.1523-1739.1997.96159.x"
 "Balsamorhiza_sagittata",374,"Herbicide picloram",5,"Crone; Marler; Pearson","10.1111/j.1365-2664.2009.01635.x"
-"Bothriochloa_insculpta",13,"Grazing",4,"O'Connor","10.2307/2404276"
-"Bouteloua_rigidiseta",136,"Adult removal",3,"Fowler; Overath; Pease","10.1890/05-1197"
-"Bouteloua_rigidiseta",136,"Seed addition",3,"Fowler; Overath; Pease","10.1890/05-1197"
-"Calamus_rhabdocladus",35,"Cutting all ramets ≥6 n stem length in August 2004",3,"Binh",NA
-"Carapa_guianensis_2",2,"Harvesting",4,"Klimas; Cropper Jr.; Kainer; Wadt","10.1016/j.ecolmodel.2012.07.022"
-"Carlina_vulgaris_2",439,"Grazed",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Carlina_vulgaris_2",440,"Grazed",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Carlina_vulgaris_2",441,"Grazed",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Carlina_vulgaris_2",491,"Grazed",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Carum_carvi",517,"Grazed from end of mid-june to the end of september",2,"Kiviniemi","10.1007/s10144-008-0096-2"
-"Carum_carvi",518,"Grazed from end of june to the end of september",3,"Kiviniemi","10.1007/s10144-008-0096-2"
-"Carum_carvi",519,"Grazed from end of may to the end of october",3,"Kiviniemi","10.1007/s10144-008-0096-2"
-"Chamaecrista_keyensis",102,"Burnt in summer 1999",3,"Liu; Menges; Quintana-Ascencio","10.1890/03-5382"
-"Chamaecrista_keyensis",102,"Burnt in winter 1999",3,"Liu; Menges; Quintana-Ascencio","10.1890/03-5382"
-"Chamaecrista_keyensis",102,"Burnt in winter 2000",2,"Liu; Menges; Quintana-Ascencio","10.1890/03-5382"
-"Chamaedorea_radicalis",98,"Browsed",2,"Endress; Gorchov; Robert; Noble","10.1890/02-5365"
-"Chamaedorea_radicalis",98,"Browsed once per year",2,"Endress; Gorchov; Robert; Noble","10.1890/02-5365"
-"Chamaedorea_radicalis",98,"Browsed twice per year",2,"Endress; Gorchov; Robert; Noble","10.1890/02-5365"
-"Chamaedorea_radicalis",98,"Harvested four times per year",2,"Endress; Gorchov; Robert; Noble","10.1890/02-5365"
-"Chamaedorea_radicalis",98,"Harvested four times per year but just one leaf",2,"Endress; Gorchov; Robert; Noble","10.1890/02-5365"
-"Chamaedorea_radicalis",98,"Harvested once per year",2,"Endress; Gorchov; Robert; Noble","10.1890/02-5365"
-"Chamaedorea_radicalis",98,"Harvested twice per year",2,"Endress; Gorchov; Robert; Noble","10.1890/02-5365"
-"Chamaedorea_radicalis_2",98,"Browsed",2,"Berry; Gorchov; Endress; Stevens","10.1007/s10144-007-0067-z"
-"Chlorocardium_rodiei",398,"Exploited",1,"ter Steege; Boot; Brouwer; Hammond; Vanderhout; Jetten; Khan; Polak; Raaimakers; Zagt","10.2307/2269341"
-"Cirsium_palustre",493,"Strong grazing",3,"Ramula","10.1016/j.actao.2007.11.005"
-"Cirsium_pitcheri_2",284,"Transplanted plant",2,"Bell; Bowles; McEachern","978-3-642-07869-9"
 "Cirsium_pitcheri_5",284,"Transplanted plants",5,"Ellis","10.1890/11-1052.1"
-"Cirsium_vulgare_3",23,"Grazed",4,"Forcella; Wood","10.1111/j.1365-3180.1986.tb00697.x"
 "Cleistes_divaricata_var._bifaria",210,"Mown",5,"Wells; Willems","10.2307/2261246"
-"Coryphantha_werdermannii",114,"Disturbance",1,"Portilla-Alonso; Martorell","10.1016/j.jaridenv.2011.01.015"
-"Coryphantha_werdermannii",115,"Disturbance",1,"Portilla-Alonso; Martorell","10.1016/j.jaridenv.2011.01.015"
-"Coryphantha_werdermannii",118,"Disturbance",1,"Portilla-Alonso; Martorell","10.1016/j.jaridenv.2011.01.015"
-"Coryphantha_werdermannii_2",117,"Disturbance",1,"Portilla Alonso",NA
-"Cryptantha_flava",238,"Droughted in 1999",3,"Lucas; Forseth; Casper","10.1111/j.1365-2745.2007.01350.x"
-"Cucurbita_pepo",141,"Cucumber mosaic virus",1,"Prendeville; Tenhumberg; Pilson","10.1111/nph.12730"
-"Cucurbita_pepo",141,"Zucchini yellow mosaic virus",1,"Prendeville; Tenhumberg; Pilson","10.1111/nph.12730"
-"Cucurbita_pepo",142,"Cucumber mosaic virus",1,"Prendeville; Tenhumberg; Pilson","10.1111/nph.12730"
-"Cucurbita_pepo",142,"Zucchini yellow mosaic virus",1,"Prendeville; Tenhumberg; Pilson","10.1111/nph.12730"
-"Cucurbita_pepo",143,"Cucumber mosaic virus",1,"Prendeville; Tenhumberg; Pilson","10.1111/nph.12730"
-"Cucurbita_pepo",143,"Zucchini yellow mosaic virus",1,"Prendeville; Tenhumberg; Pilson","10.1111/nph.12730"
 "Cypripedium_calceolus",468,"Dunes, Tilio-Carpinetum forest patches, Calamagrostis epigeios patches",8,"Nicolè; Brzosko; Till-Bottraud","10.1111/j.1365-2745.2005.01010.x"
-"Daemonorops_poilanei",35,"Cutting all ramets ≥6 n stem length in August 2004",1,"Binh",NA
-"Dicentra_canadensis",215,"No pollination",2,"Lin; Miriti; Goodell","10.1002/ece3.2163"
-"Dicentra_canadensis",215,"Supplemental pollination",3,"Lin; Miriti; Goodell","10.1002/ece3.2163"
-"Dicentra_canadensis",226,"No pollination",2,"Lin; Miriti; Goodell","10.1002/ece3.2163"
-"Dicentra_canadensis",226,"Supplemental pollination",3,"Lin; Miriti; Goodell","10.1002/ece3.2163"
-"Dicentra_canadensis",232,"No pollination",1,"Lin; Miriti; Goodell","10.1002/ece3.2163"
-"Dicentra_canadensis",232,"Supplemental pollination",2,"Lin; Miriti; Goodell","10.1002/ece3.2163"
 "Dicerandra_frutescens",122,"Fire",12,"Menges; Quintana-Ascencio; Weekley; Gaoue","10.1016/j.biocon.2005.08.002"
-"Dicymbe_altsonii",399,"Exploited",1,"Zagt; Boot",NA
-"Digitalis_purpurea_2",510,"Disturbed",2,"Sletvold; Rydgren","10.1111/j.1365-2745.2007.01287.x"
-"Digitaria_eriantha",15,"Heavily grazed",4,"O'Connor","10.2307/2404276"
-"Dracocephalum_austriacum_2",395,"Mean",1,"Dostálek; Münzbergova",NA
-"Duguetia_neglecta",398,"Exploited",1,"Zagt; Boot",NA
-"Echeveria_longissima",42,"Exposed",3,"Martorell","10.1007/s10144-012-0307-8"
-"Echeveria_longissima",42,"Fenced",3,"Martorell","10.1007/s10144-012-0307-8"
-"Echinacea_angustifolia_2",208,"Harvested",2,"Hurlburt",NA
-"Echinacea_angustifolia_2",214,"Harvested",2,"Hurlburt",NA
-"Echinacea_angustifolia_2",214,"Soil disturbance",2,"Hurlburt",NA
-"Epilobium_latifolium",516,"Herbicide 1",2,"Doak","10.2307/1941457"
-"Epilobium_latifolium",516,"Herbicide 2",2,"Doak","10.2307/1941457"
-"Epilobium_latifolium",516,"Herbicide 3",2,"Doak","10.2307/1941457"
-"Epilobium_latifolium",516,"Herbicide 4",2,"Doak","10.2307/1941457"
-"Epilobium_latifolium",516,"Herbicide 5",2,"Doak","10.2307/1941457"
-"Epilobium_latifolium",516,"Herbicide 6",2,"Doak","10.2307/1941457"
 "Eriogonum_longifolium_var._gnaphalifolium_2",125,"After burn",4,"Satterthwaite; Menges; Quintana-Ascencio","10.1890/1051-0761(2002)012[1672:ASBPVI]2.0.CO;2"
 "Eriogonum_longifolium_var._gnaphalifolium_2",125,"Burned",4,"Satterthwaite; Menges; Quintana-Ascencio","10.1890/1051-0761(2002)012[1672:ASBPVI]2.0.CO;2"
-"Furcraea_parmentieri",66,"MS (Mast-seedling simulation with high mortality and low fecundity)",1,"Hernández-Pedrero; Valverde","10.1007/s10144-017-0572-7"
-"Furcraea_parmentieri",66,"PS (Post Mast-Seedling simulation with low mortality and high fecundity)",1,"Hernández-Pedrero; Valverde","10.1007/s10144-017-0572-7"
-"Furcraea_parmentieri",66,"R (Regular with low mortality and low fecundity)",1,"Hernández-Pedrero; Valverde","10.1007/s10144-017-0572-7"
-"Geranium_sylvaticum",509,"No pollen limitation",1,"Ramula; Toivonen; Mutikainen","10.1086/512040"
 "Haplopappus_radiatus",335,"Grazed",9,"Kaye; Pyke","10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2"
-"Heliconia_acuminata",10,"Isolated into a 10ha fragment",2,"Bruna","10.1890/0012-9658(2003)084[0932:APPIFH]2.0.CO;2"
-"Heliconia_acuminata",10,"Isolated into a 1ha fragment",2,"Bruna","10.1890/0012-9658(2003)084[0932:APPIFH]2.0.CO;2"
-"Heteropogon_contortus",13,"Heavily grazed",4,"O'Connor","10.2307/2404276"
-"Himatanthus_drasticus",26,"High harvest",2,"Baldauf; Correa; Ferreira; Santos","10.1016/j.foreco.2015.06.022"
-"Himatanthus_drasticus",26,"Low harvest",2,"Baldauf; Correa; Ferreira; Santos","10.1016/j.foreco.2015.06.022"
 "Hypericum_cumulicola_2",123,"Long unburned",10,"Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley","10.1890/11-1052.1"
-"Hypochaeris_radicata_2",406,"Grazed extensivley",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Hypochaeris_radicata_2",437,"Mown; Late grazing",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Hypochaeris_radicata_2",444,"Grazed extensivley",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Hypochaeris_radicata_2",461,"Grazed extensivley",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Hypochaeris_radicata_2",462,"Mown",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Hypochaeris_radicata_2",463,"Mown",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Khaya_senegalensis",27,"High harvest",2,"Gaoue; Ticktin","10.1111/j.1523-1739.2009.01345.x"
-"Khaya_senegalensis",28,"High harvest",2,"Gaoue; Ticktin","10.1111/j.1523-1739.2009.01345.x"
-"Khaya_senegalensis",29,"High harvest",2,"Gaoue; Ticktin","10.1111/j.1523-1739.2009.01345.x"
-"Khaya_senegalensis",525,"High harvest",2,"Gaoue; Ticktin","10.1111/j.1523-1739.2009.01345.x"
-"Khaya_senegalensis",528,"High harvest",2,"Gaoue; Ticktin","10.1111/j.1523-1739.2009.01345.x"
-"Khaya_senegalensis",531,"High harvest",2,"Gaoue; Ticktin","10.1111/j.1523-1739.2009.01345.x"
-"Lechea_cernua",125,"Burned (intermediate-aged)",4,"Maliakal Witt",NA
-"Lechea_cernua",125,"Recently burned",4,"Maliakal Witt",NA
-"Lechea_deckertii",125,"Burned (intermediate-aged)",4,"Maliakal Witt",NA
-"Lechea_deckertii",125,"Recently burned",4,"Maliakal Witt",NA
-"Lepidium_davisii",319,"Weeded",2,"Bernatus",NA
-"Lespedeza_virginica",200,"Herbivory reduction",1,"Schutzenhofer; Valone; Knight","10.1007/s00442-009-1354-6"
-"Lindera_benzoin",205,"Gap",1,"Cipollini; Wallace-Senft; Whigham","10.2307/2261269"
-"Lindera_benzoin",205,"Understorey",1,"Cipollini; Wallace-Senft; Whigham","10.2307/2261269"
 "Lomatium_bradshawii",331,"Burned",7,"Kaye; Pyke","10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2"
 "Lomatium_bradshawii",332,"Burned",7,"Kaye; Pyke","10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2"
-"Lupinus_tidestromii",194,"Herbivory exclosure",3,"Dangremond; Knight","10.1890/09-0418.1"
-"Lupinus_tidestromii",195,"Herbivory exclosure",3,"Dangremond; Knight","10.1890/09-0418.1"
-"Lupinus_tidestromii",196,"Herbivory exclosure",3,"Dangremond; Knight","10.1890/09-0418.1"
-"Lythrum_salicaria",326,"Seed germination",2,"Lacroix",NA
-"Lythrum_salicaria",328,"Seed germination",2,"Lacroix",NA
-"Magnolia_dealbata",67,"Livestock exclusion",3,"Sánchez-Velásquez; Pineda-López","10.1007/s10144-009-0161-5"
 "Mammillaria_huitzilopochtli",39,"Disturbed",5,"Flores-Martinez; Manzanero-Medino; Golubov; Montaña; Mandujano","10.1007/s11258-010-9737-6"
-"Melaleuca_viridiflora",8,"Burned",1,"Crowley; Garnett; Shephard","10.1111/j.1442-9993.2008.01921.x"
-"Microberlinia_bisulcata",397,"Exclosure of small mammals",1,"Norghauer; Newbery","10.1890/10-2268.1"
-"Molinia_caerulea",447,"Burnt plot",3,"Jacquemyn; Brys; Neubert","10.1890/04-1762"
-"Persoonia_lanceolata",19,"Burned",2,"McKenna",NA
-"Persoonia_mollis_subsp._maxima",18,"Burned",2,"McKenna",NA
-"Persoonia_mollis_subsp._nectens",20,"Burned",2,"McKenna",NA
-"Phyllanthus_emblica",33,"Time since last fire: 0 years",1,"Sinha; Brault","10.1007/s10531-004-0827-4"
-"Phyllanthus_emblica",33,"Time since last fire: 1 year",1,"Sinha; Brault","10.1007/s10531-004-0827-4"
-"Phyllanthus_emblica",33,"Time since last fire: 2 years",1,"Sinha; Brault","10.1007/s10531-004-0827-4"
-"Phyllanthus_emblica",33,"Time since last fire: 3 years",1,"Sinha; Brault","10.1007/s10531-004-0827-4"
-"Phyllanthus_emblica",33,"Time since last fire: 4 years",1,"Sinha; Brault","10.1007/s10531-004-0827-4"
-"Phyllanthus_emblica",33,"Time since last fire: 5 years",1,"Sinha; Brault","10.1007/s10531-004-0827-4"
 "Phyllanthus_emblica_2",34,"Fruit harvesting and lantana cover",7,"Ticktin; Ganesan; Paramesha; Setty","10.1111/j.1365-2664.2012.02156.x"
 "Phyllanthus_emblica_2",34,"Fruit harvesting and mistletoe and lantana cover",7,"Ticktin; Ganesan; Paramesha; Setty","10.1111/j.1365-2664.2012.02156.x"
 "Phyllanthus_emblica_2",34,"Fruit harvesting and mistletoe cover",7,"Ticktin; Ganesan; Paramesha; Setty","10.1111/j.1365-2664.2012.02156.x"
@@ -145,102 +22,6 @@
 "Phyllanthus_indofischeri",34,"Fruit harvesting and Mistletoe cover",7,"Ticktin; Ganesan; Paramesha; Setty","10.1111/j.1365-2664.2012.02156.x"
 "Phyllanthus_indofischeri",34,"Fruit harvesting and no cover",7,"Ticktin; Ganesan; Paramesha; Setty","10.1111/j.1365-2664.2012.02156.x"
 "Phyllanthus_indofischeri",34,"Mistletoe cover",3,"Ticktin; Ganesan; Paramesha; Setty","10.1111/j.1365-2664.2012.02156.x"
-"Pinus_nigra",25,"Grazing 0,5",1,"Buckley; Brockerhoff; Langer; Ledgard; North; Rees","10.1111/j.1365-2664.2005.01100.x"
-"Pinus_strobus",433,"Including rock edges",3,"Münzbergová; Hadincová; Wild; Kindlmannová","10.1371/journal.pone.0056953"
-"Pinus_strobus",433,"Lower slopes and ravine bottoms",3,"Münzbergová; Hadincová; Wild; Kindlmannová","10.1371/journal.pone.0056953"
-"Pityopsis_aspera",137,"Native reduction",2,"Gornish",NA
-"Pityopsis_aspera",137,"Nitrogen",2,"Gornish",NA
-"Pityopsis_aspera",137,"Nitrogen + native reduction",2,"Gornish",NA
-"Pityopsis_aspera",137,"Nitrogen + warming",2,"Gornish",NA
-"Pityopsis_aspera",137,"Nitrogen + warming + native reduction",2,"Gornish",NA
-"Pityopsis_aspera",137,"Warming",2,"Gornish",NA
-"Pityopsis_aspera",137,"Warming + native reduction",2,"Gornish",NA
-"Pityopsis_aspera_var._aspera",137,"Density = 130 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Pityopsis_aspera_var._aspera",137,"Density = 132 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Pityopsis_aspera_var._aspera",137,"Density = 138 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Pityopsis_aspera_var._aspera",137,"Density = 179 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Pityopsis_aspera_var._aspera",137,"Density = 196 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Pityopsis_aspera_var._aspera",137,"Density = 206 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Pityopsis_aspera_var._aspera",137,"Density = 71 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Pityopsis_aspera_var._aspera",137,"Density = 77 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Pityopsis_aspera_var._aspera",137,"Density = 91 shoots per m2",2,"Gornish","10.1093/aobpla/plt041"
-"Polemonium_van-bruntiae",330,"Browse",2,"Bermingham","10.1007/s11258-010-9762-5"
-"Polygonella_basiramia",125,"Burned (intermediate-aged)",4,"Maliakal Witt",NA
-"Polygonella_basiramia",125,"Recently burned",4,"Maliakal Witt",NA
-"Polygonella_robusta",125,"Burned (intermediate-aged)",4,"Maliakal Witt",NA
-"Polygonella_robusta",125,"Recently burned",4,"Maliakal Witt",NA
 "Primula_veris_3",425,"Grazing",9,"Jacquemyn; Brys; Davison; Tuljapurkar; Jongejans","10.1111/j.1600-0706.2011.19774.x"
 "Primula_veris_3",425,"Mown",9,"Jacquemyn; Brys; Davison; Tuljapurkar; Jongejans","10.1111/j.1600-0706.2011.19774.x"
-"Primula_veris_5",427,"Autumn moving",4,"Brys; Jacquemyn; Endels; de Blust; Hermy","10.1111/j.1523-1739.2005.00216.x"
-"Primula_veris_5",427,"Grazing",4,"Brys; Jacquemyn; Endels; de Blust; Hermy","10.1111/j.1523-1739.2005.00216.x"
-"Primula_veris_5",427,"No moving",4,"Brys; Jacquemyn; Endels; de Blust; Hermy","10.1111/j.1523-1739.2005.00216.x"
-"Primula_veris_5",427,"Summer moving",4,"Brys; Jacquemyn; Endels; de Blust; Hermy","10.1111/j.1523-1739.2005.00216.x"
-"Primula_vulgaris_2",436,"Mown",3,"Endels; Jacquemyn; Brys; Hermy","10.1111/j.1365-2745.2007.01279.x"
-"Prunus_africana",503,"Harvested twice per year",2,"Stewart",NA
-"Prunus_africana",504,"Harvested once per year",2,"Stewart",NA
-"Prunus_africana",505,"Harvested once per year",2,"Stewart",NA
-"Prunus_africana",507,"Harvested twice per year",2,"Stewart",NA
-"Pyxidanthera_brevifolia",154,"Burned",2,"Wall; Hoffmann; Wentworth; Gray; Hohmann","10.1007/s11258-012-0068-7"
-"Rhus_copallinum",138,"Fine fuel removal",3,"Thaxton",NA
-"Rhus_copallinum",138,"Fine needle addition",3,"Thaxton",NA
-"Rhus_copallinum",138,"Wood addition",3,"Thaxton",NA
-"Sabal_yapa",79,"Harvested",2,"Pulido; Valverde; Caballero","10.1017/S0266467406003877"
-"Salix_arctica",524,"Grazed",1,"Tolvanen; Schroderus; Henry","10.1007/978-94-017-1345-0_12"
-"Salix_arctica_2",524,"Grazed",1,"Tolvanen; Schroderus; Henry","10.1007/978-94-017-1345-0_12"
-"Sarracenia_purpurea_2",413,"20 % harvesting",1,"Tendland",NA
-"Sarracenia_purpurea_2",413,"50 % harvesting",1,"Tendland",NA
-"Senecio_jacobaea_2",381,"High density larvae treatment",1,"Crider",NA
-"Senecio_jacobaea_2",381,"Low density larvae treatment",1,"Crider",NA
-"Senecio_jacobaea_2",381,"Seed consumption and survival effects",1,"Crider",NA
-"Senecio_jacobaea_2",381,"Seed consumption and survival effects + high density larvae treatment",1,"Crider",NA
-"Senecio_jacobaea_2",381,"Seed consumption and survival effects + low density larvae treatment",1,"Crider",NA
-"Senecio_jacobaea_2",382,"High density larvae treatment",1,"Crider",NA
-"Senecio_jacobaea_2",382,"Low density larvae treatment",1,"Crider",NA
-"Senecio_jacobaea_2",382,"Seed consumption and survival effects",1,"Crider",NA
-"Senecio_jacobaea_2",382,"Seed consumption and survival effects + high density larvae treatment",1,"Crider",NA
-"Senecio_jacobaea_2",382,"Seed consumption and survival effects + low density larvae treatment",1,"Crider",NA
-"Setaria_incrassata",13,"Heavily grazed",4,"O'Connor","10.2307/2404276"
-"Setaria_incrassata",13,"Lightly grazed",4,"O'Connor","10.2307/2404276"
-"Setaria_incrassata_2",13,"Heavily grazed",4,"O'Connor","10.2307/2404276"
-"Setaria_incrassata_2",13,"Lightly grazed",4,"O'Connor","10.2307/2404276"
-"Succisa_pratensis_3",490,"Grazed",3,"Milden",NA
-"Syngonanthus_nitens",1,"Burned",1,"Schmidt; Ticktin","10.1016/j.biocon.2012.03.018"
-"Syngonanthus_nitens",1,"Early harvest at 40% level year 2",1,"Schmidt; Ticktin","10.1016/j.biocon.2012.03.018"
-"Syngonanthus_nitens",1,"Early harvest at 40% level year 3",1,"Schmidt; Ticktin","10.1016/j.biocon.2012.03.018"
-"Syngonanthus_nitens",1,"Early harvest at 5% level year 2",1,"Schmidt; Ticktin","10.1016/j.biocon.2012.03.018"
-"Syngonanthus_nitens",1,"Early harvest at 5% level year 3",1,"Schmidt; Ticktin","10.1016/j.biocon.2012.03.018"
-"Syngonanthus_nitens",1,"Late harvest - harvest year 1",1,"Schmidt; Ticktin","10.1016/j.biocon.2012.03.018"
-"Syngonanthus_nitens",1,"Late harvest - harvest year 2",1,"Schmidt; Ticktin","10.1016/j.biocon.2012.03.018"
-"Syngonanthus_nitens",1,"Late harvest - harvest year 3",1,"Schmidt; Ticktin","10.1016/j.biocon.2012.03.018"
-"Tetraberlinia_bifoliolata",397,"Exclosure of small mammals",1,"Norghauer; Newbery","10.1890/10-2268.1"
-"Themeda_triandra",13,"Heavily grazed",4,"O'Connor; Pickett","10.2307/2404276"
-"Themeda_triandra",15,"Heavily grazed",4,"O'Connor; Pickett","10.2307/2404276"
-"Tragopogon_pratensis",490,"Grazed",2,"Milden; Eriksson",NA
-"Tragopogon_pratensis_subsp._orientalis",409,"Mown",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Tragopogon_pratensis_subsp._orientalis",422,"Grazed",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Tragopogon_pratensis_subsp._orientalis",453,"Mown",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Tragopogon_pratensis_subsp._orientalis",454,"Mown",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Tragopogon_pratensis_subsp._pratensis",451,"Mown and grazing",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Tragopogon_pratensis_subsp._pratensis",452,"Mown",2,"Jongejans; Jorritsma-Wienk; Becker; Dostál; Mildén","10.1111/j.1365-2745.2009.01612.x"
-"Trillium_persistens",151,"Burned",1,"Plank",NA
-"Trollius_europaeus",469,"Mown",2,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_europaeus",470,"Grazed",2,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_europaeus",471,"Woodland",2,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_europaeus",472,"Abandoned",2,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_europaeus",473,"Woodland",2,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_europaeus",474,"Mown",2,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_europaeus",475,"Abandoned",3,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_europaeus",476,"Mown",2,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_europaeus",477,"Mown",3,"Lemke; Salguero-Gomez","10.1007/s10144-015-0519-9"
-"Trollius_laxus",300,"Experimental gaps",4,"Scanga; Leopold","10.1016/j.biocon.2012.01.061"
-"Trollius_laxus_2",299,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
-"Trollius_laxus_2",302,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
-"Trollius_laxus_2",303,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
-"Trollius_laxus_2",304,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
-"Trollius_laxus_2",305,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
-"Trollius_laxus_2",306,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
-"Trollius_laxus_2",308,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
-"Trollius_laxus_2",310,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
-"Trollius_laxus_2",311,"Experimental gaps",1,"Scanga","10.1007/s11258-014-0344-9"
 "Viola_biflora",511,"Grazing",5,"Evju; Halvorsen; Rydgren; Austrheim; Mysterud","10.1007/s00442-010-1637-x"
-"Zea_diploperennis",73,"Slashed and burned secondary vegetation in 1991",4,"Sanchez-Velazquez; Ezcurra; Martinez-Ramos; Alvarez-Buylla; Lorente","10.1046/j.1365-2745.2002.00702.x"
