@@ -9,6 +9,7 @@ library(popbio)
 library(popdemo)
 library(gridExtra)
 library(maps)
+library(ggplot2)
 
 
 ### load compadre data
@@ -76,33 +77,52 @@ comp_ts <- comp_sub %>%
 
 length(which(comp_ts$n_year >= 5)) # time series >= 5 years
 
-# ecoregion counts
+# ecoregion counts and plot
 comp_ts %>% 
   count(Ecoregion) %>% 
   arrange(desc(n)) %>% 
-  print(n = "all")
+  print(n = "all")%>% 
+  ggplot(aes(x=reorder(Ecoregion, -n), y=n))+
+  geom_bar(stat = 'identity', size=2, fill="#b7bc25")+ 
+  geom_text(aes(label = paste("n=", n, sep=""), y = n+1, x=Ecoregion), size = 3, position = position_dodge(width=0.9))+
+  #ggtitle("number of sites per ecoregion")+
+  theme_minimal()+
+  xlab("Ecoregion")+
+  ylab("Number of sites")+
+  coord_flip()
+#ggsave("output/ecoregion_freq.png", a, height=7, width=10, dpi=300)
 
-# organism type counts
+
+# organism type counts and plot
 comp_ts %>% 
   count(OrganismType) %>% 
   arrange(desc(n)) %>% 
-  filter(n > 0)
+  filter(n > 0)%>% 
+  ggplot(aes(x=reorder(OrganismType, -n), y=n))+
+  geom_bar(stat = 'identity', size=2, fill="#b7bc25")+ 
+  geom_text(aes(label = paste("n=", n, sep=""), y = n+1, x=OrganismType), size = 3, position = position_dodge(width=0.9))+
+  #ggtitle("number of sites per ecoregion")+
+  theme_minimal()+
+  xlab("Ecoregion")+
+  ylab("Number of sites")+
+  coord_flip()
+# ggsave("output/organismType_freq.png", b, height=7, width=7, dpi=300)
 
 comp_ts %>% 
   count(Authors) %>% 
   arrange(desc(n)) %>% 
-  print(n = 20)
-
+  print(n = "all")
 
 
 # plot sites on world map
 ggplot(filter(comp_ts, n_year >= 5), aes(Lon, Lat)) +
-  borders(database = "world", fill = "grey80", col = NA) +
+  borders(database = "world", fill = "grey80", col = "grey90") +
   geom_point(aes(size = n_year), col = "darkblue", shape = 1, alpha = 0.6) +
   coord_cartesian(ylim = c(-20, 80))
+# ggsave("output/map_allSites.png", c, height=7, width=14, dpi=300)
 
 
-
+# check which treatments the subset includes
 treatments_check <- comp_sub %>% 
   filter(SpeciesAuthor %in% comp_ts$SpeciesAuthor,
          site_id %in% comp_ts$site_id) %>% 
