@@ -84,8 +84,8 @@ comp_ts %>%
   print(n = "all")%>% 
   ggplot(aes(x=reorder(Ecoregion, -n), y=n))+
   geom_bar(stat = 'identity', size=2, fill="#b7bc25")+ 
-  geom_text(aes(label = paste("n=", n, sep=""), y = n+1, x=Ecoregion), size = 3, position = position_dodge(width=0.9))+
-  #ggtitle("number of sites per ecoregion")+
+  geom_text(aes(label = paste("n=", n, sep=""), y = n+2, x=Ecoregion), size = 3, position = position_dodge(width=0.9))+
+  #ggtitle("Distribution of sites per Ecoregion")+
   theme_minimal()+
   xlab("Ecoregion")+
   ylab("Number of sites")+
@@ -100,8 +100,8 @@ comp_ts %>%
   filter(n > 0)%>% 
   ggplot(aes(x=reorder(OrganismType, -n), y=n))+
   geom_bar(stat = 'identity', size=2, fill="#b7bc25")+ 
-  geom_text(aes(label = paste("n=", n, sep=""), y = n+1, x=OrganismType), size = 3, position = position_dodge(width=0.9))+
-  #ggtitle("number of sites per ecoregion")+
+  geom_text(aes(label = paste("n=", n, sep=""), y = n+2, x=OrganismType), size = 3, position = position_dodge(width=0.9))+
+  #ggtitle("Distribution of sites per OrganismType")+
   theme_minimal()+
   xlab("Ecoregion")+
   ylab("Number of sites")+
@@ -118,7 +118,8 @@ comp_ts %>%
 ggplot(filter(comp_ts, n_year >= 5), aes(Lon, Lat)) +
   borders(database = "world", fill = "grey80", col = "grey90") +
   geom_point(aes(size = n_year), col = "darkblue", shape = 1, alpha = 0.6) +
-  coord_cartesian(ylim = c(-20, 80))
+  coord_cartesian(ylim = c(-20, 80)) +
+  #ggtitle("Map of all sites included")+
 # ggsave("output/map_allSites.png", c, height=7, width=14, dpi=300)
 
 
