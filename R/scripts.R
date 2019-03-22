@@ -23,6 +23,23 @@ comp_sub <- compadre %>%
          AnnualPeriodicity == "1",
          MatrixCaptivity == "W",
          !is.na(Lon) & !is.na(Lat)) %>% 
+  filter(MatrixTreatment != "Protected" &
+         MatrixTreatment != "Herbicide picloram" &
+         MatrixTreatment != "Transplanted plants" &
+         MatrixTreatment != "Mown"&
+         MatrixTreatment != "Fire" &
+         MatrixTreatment != "After burn" &
+         MatrixTreatment != "Burned" &
+         MatrixTreatment != "Fruit harvesting and lantana cover" &
+         MatrixTreatment != "Fruit harvesting and mistletoe and lantana cover" &
+         MatrixTreatment != "Fruit harvesting and mistletoe cover" &
+         MatrixTreatment != "Fruit harvesting and no cover" &
+         MatrixTreatment != "Lantana cover" &
+         MatrixTreatment != "Mistletoe and lantana cover" &
+         MatrixTreatment != "Mistletoe cover" &
+         MatrixTreatment != "Fruit harvesting and Mistletoe cover" &
+         MatrixTreatment != "Fruit harvesting and no cover" &
+         MatrixTreatment != "Mistletoe cover") %>%
   mutate(site_id = cdb_id(., c("Lat", "Lon"))) %>% 
   mutate(Ecoregion = case_when(
     Ecoregion == "TMB" ~ "trop/subtrop moist broadleaf forest",
