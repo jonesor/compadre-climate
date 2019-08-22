@@ -1,0 +1,248 @@
+SpeciesAuthor,Authors,Journal,YearPublication,DOI.ISBN,Continent,Country,MatrixPopulation,Lat,Lon,Lat_Corr,Lon_Corr,Coord_Comment,Ecoregion,Ecoregion_Corr,Ecoregion_Comment
+Phyllanthus_emblica_2,Ticktin; Ganesan; Paramesha; Setty,J Appl Ecol,2012,10.1111/j.1365-2664.2012.02156.x,Asia,IND,Biligiri Rangaswamy Temple Wildlife Sanctuary,12.000,77.500,,,,TDB,NA,NA
+Phyllanthus_indofischeri,Ticktin; Ganesan; Paramesha; Setty,J Appl Ecol,2012,10.1111/j.1365-2664.2012.02156.x,Asia,IND,Biligiri Rangaswamy Temple Wildlife Sanctuary,12.000,77.500,,,,TDB,NA,NA
+Primula_veris_3,Jacquemyn; Brys; Davison; Tuljapurkar; Jongejans,Oikos,2011,10.1111/j.1600-0706.2011.19774.x,Europe,BEL,Site 1,50.717,5.850,50.7325,5.856389,author correspondence,TBM,NA,NA
+Primula_veris_3,Jacquemyn; Brys; Davison; Tuljapurkar; Jongejans,Oikos,2011,10.1111/j.1600-0706.2011.19774.x,Europe,BEL,Site 2,50.717,5.850,50.738611,5.848611,author correspondence,TBM,NA,NA
+Orchis_purpurea,Jacquemyns; Brys; Jongejans,Ecology,2010,10.1890/08-2321.1,Europe,BEL,Shaded site 1,50.750,5.750,50.7325,5.856389,author correspondence,TBM,NA,NA
+Orchis_purpurea,Jacquemyns; Brys; Jongejans,Ecology,2010,10.1890/08-2321.1,Europe,BEL,Shaded site 2,50.750,5.750,50.7325,5.856389,author correspondence,TBM,NA,NA
+Orchis_purpurea,Jacquemyns; Brys; Jongejans,Ecology,2010,10.1890/08-2321.1,Europe,BEL,Shaded site 3,50.750,5.750,50.7325,5.856389,author correspondence,TBM,NA,NA
+Orchis_purpurea,Jacquemyns; Brys; Jongejans,Ecology,2010,10.1890/08-2321.1,Europe,BEL,Light Environment 1,50.750,5.750,50.7325,5.856389,NOT publish exact position,TBM,NA,NA
+Orchis_purpurea,Jacquemyns; Brys; Jongejans,Ecology,2010,10.1890/08-2321.1,Europe,BEL,Light Environment 2,50.750,5.750,50.738611,5.848611,NOT publish exact position,TBM,NA,NA
+Orchis_purpurea,Jacquemyns; Brys; Jongejans,Ecology,2010,10.1890/08-2321.1,Europe,BEL,Light Environment 3,50.750,5.750,50.738611,5.848611,NOT publish exact position,TBM,NA,NA
+Vella_pseudocytisus_subsp._paui_2,Dominguez Lozano; Moreno Saiz; Schwartz,J Nat Cons,2011,10.1016/j.jnc.2011.05.005,Europe,ESP,Villalba,40.417,-1.069,,,,MED,NA,NA
+Vella_pseudocytisus_subsp._paui_2,Dominguez Lozano; Moreno Saiz; Schwartz,J Nat Cons,2011,10.1016/j.jnc.2011.05.005,Europe,ESP,Villel,40.234,-1.184,,,,MED,NA,NA
+Cypripedium_calceolus_2,García; Goñi; Guzman,Cons Biol,2010,10.1111/j.1523-1739.2010.01466.x,Europe,ESP,Sallent,42.767,0.351,42.767,-0.3637,author correspondence,MED,NA,NA
+Helianthemum_polygonoides,Iriondo; Albert; Gimenez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Cordovilla,40.950,-5.400,NA,NA,NA,MED,NA,NA
+Helianthemum_teneriffae,Iriondo; Albert; Gimenez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Ladera de Güímar,28.283,-16.433,NA,NA,NA,MED,NA,NA
+Jurinea_fontqueri,Iriondo; Albert; Gimenez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Sierra de Mágina,37.750,-3.550,NA,NA,NA,MED,NA,NA
+Parolinia_glabriuscula,Iriondo; Albert; Gimenez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Caldera de Bandama,28.033,-15.450,NA,NA,NA,MED,NA,NA
+Adenocarpus_gibbsianus,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Palos de la Frontera,37.217,-6.883,NA,NA,NA,MED,NA,NA
+Adenocarpus_gibbsianus,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Donana,37.033,-6.433,NA,NA,NA,MED,NA,NA
+Adenocarpus_gibbsianus,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Hinojos,37.283,-6.367,NA,NA,NA,MED,NA,NA
+Anarrhinum_fruticosum,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Crevillente I,38.233,-0.800,NA,NA,NA,MED,NA,NA
+Arenaria_bolosii,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Puig de Massanella,39.800,2.800,NA,NA,NA,MED,NA,NA
+Armeria_merinoi,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Melide,42.950,-8.000,NA,NA,NA,MED,NA,NA
+Armeria_merinoi,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Torques,42.967,-7.967,NA,NA,NA,MED,NA,NA
+Aster_pyrenaeus,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Bulnes,43.217,-4.817,NA,NA,NA,TBM,NA,NA
+Astragalus_tremolsianus,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Sierra de Grador,36.867,-2.767,NA,NA,NA,MED,NA,NA
+Cheirolophus_metlesicsii,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Barranco de Anavingo,28.383,-16.417,NA,NA,NA,MED,NA,NA
+Corallorhiza_trifida,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Ordesa,42.633,0.083,NA,NA,NA,TBM,NA,NA
+Dorycnium_spectabile,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Barranco del Agua,38.117,-1.900,NA,NA,NA,MED,NA,NA
+Dorycnium_spectabile,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Barranco de los Cochinos,28.317,-16.817,NA,NA,NA,MED,NA,NA
+Echinospartum_algibicum,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Ronda,36.733,-5.150,NA,NA,NA,MED,NA,NA
+Erodium_paularense,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Pinilla del Valle I,40.917,-3.817,NA,NA,NA,MED,NA,NA
+Erodium_paularense,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Cañamares I,40.450,-2.233,NA,NA,NA,MED,NA,NA
+Euphorbia_fontqueriana,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Puig de Massanella,39.800,2.800,NA,NA,NA,MED,NA,NA
+Laserpitium_longiradium,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Sierra Nevada,37.050,-3.300,NA,NA,NA,MED,NA,NA
+Limonium_erectum,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Pangia,40.383,-2.900,NA,NA,NA,MED,NA,NA
+Limonium_malacitanum,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,El Chantal,37.550,-2.200,NA,NA,NA,MED,NA,NA
+Pseudomisopates_rivas-martinezii,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Covacha,40.500,-5.100,NA,NA,NA,MED,NA,NA
+Pseudomisopates_rivas-martinezii,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Serrota,40.300,-5.183,NA,NA,NA,MED,NA,NA
+Rumex_rupestris,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Costa da Morte,43.000,-9.250,NA,NA,NA,MED; TBM,NA,NA
+Santolina_melidensis,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Santiso-Palas,42.850,-8.050,NA,NA,NA,MED,NA,NA
+Vella_pseudocytisus_subsp._paui,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Villalba Baja,40.417,-1.067,NA,NA,NA,MED,NA,NA
+Vella_pseudocytisus_subsp._paui,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Villel,40.233,-1.183,NA,NA,NA,MED,NA,NA
+Vella_pseudocytisus_subsp._pseudocytisus,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Aranjuez,40.017,-3.600,NA,NA,NA,MED,NA,NA
+Vella_pseudocytisus_subsp._pseudocytisus,Iriondo; Albert; Giménez; Lozano; Escudero,Book,2009,978-84-8014-746-0,Europe,ESP,Orce,37.717,-2.467,NA,NA,NA,MED,NA,NA
+Helianthemum_juliae,Marrero-Gómez; Oostermeijer; Carqué-Álamo; Bañares-Baudet,Biol Cons,2007,10.1016/j.biocon.2007.01.010,Europe,ESP,Teide National Park,28.250,-16.583,,,,MED,NA,NA
+Ramonda_myconi,Picó; Riba,Plant Ecol,2002,10.1023/A:1020310609348,Europe,ESP,Urus,42.350,1.850,42.336741,1.857827,author correspondence,MED,NA,NA
+Ramonda_myconi,Picó; Riba,Plant Ecol,2002,10.1023/A:1020310609348,Europe,ESP,Ingla1,42.317,1.783,42.317984,1.785355,author correspondence,MED,NA,NA
+Ramonda_myconi,Picó; Riba,Plant Ecol,2002,10.1023/A:1020310609348,Europe,ESP,Ingla2,42.317,1.783,42.317984,1.785355,author correspondence,MED,NA,NA
+Ramonda_myconi,Picó; Riba,Plant Ecol,2002,10.1023/A:1020310609348,Europe,ESP,Grau,42.333,1.567,42.336497,1.833554,author correspondence,MED,NA,NA
+Ramonda_myconi,Picó; Riba,Plant Ecol,2002,10.1023/A:1020310609348,Europe,ESP,Pi,42.350,1.750,42.30872,1.761267,author correspondence,MED,NA,NA
+Kosteletzkya_pentacarpos,Pino; Picó; Roa,Bot J Lin Soc,2007,10.1111/j.1095-8339.2007.00628.x,Europe,ESP,Ricarda lagoon,41.284,2.101,NA,NA,NA,MED,NA,NA
+Eryngium_alpinum,Andrello; Bizoux; Barbet-Massin; Gaudeul; Nicolè; Till-Bottraud,Biol Cons,2012,10.1016/j.biocon.2011.12.012,Europe,FRA,BOU,45.417,6.550,44.792364,6.478456,author correspondence,TBM,NA,NA
+Eryngium_alpinum,Andrello; Bizoux; Barbet-Massin; Gaudeul; Nicolè; Till-Bottraud,Biol Cons,2012,10.1016/j.biocon.2011.12.012,Europe,FRA,BER,45.417,6.550,44.783178,6.529408,author correspondence,TBM,NA,NA
+Eryngium_alpinum,Andrello; Bizoux; Barbet-Massin; Gaudeul; Nicolè; Till-Bottraud,Biol Cons,2012,10.1016/j.biocon.2011.12.012,Europe,FRA,DES,45.417,6.550,44.785983,6.45885,author correspondence,TBM,NA,NA
+Eryngium_alpinum,Andrello; Bizoux; Barbet-Massin; Gaudeul; Nicolè; Till-Bottraud,Biol Cons,2012,10.1016/j.biocon.2011.12.012,Europe,FRA,PRA,45.367,6.717,45.361542,6.700614,author correspondence,TBM,NA,NA
+Eryngium_alpinum,Andrello; Bizoux; Barbet-Massin; Gaudeul; Nicolè; Till-Bottraud,Biol Cons,2012,10.1016/j.biocon.2011.12.012,Europe,FRA,PRB,45.367,6.717,45.361406,6.700961,author correspondence,TBM,NA,NA
+Eryngium_alpinum,Andrello; Bizoux; Barbet-Massin; Gaudeul; Nicolè; Till-Bottraud,Biol Cons,2012,10.1016/j.biocon.2011.12.012,Europe,FRA,PRC,45.367,6.717,45.361147,6.702239,author correspondence,TBM,NA,NA
+Eryngium_alpinum,Andrello; Bizoux; Barbet-Massin; Gaudeul; Nicolè; Till-Bottraud,Biol Cons,2012,10.1016/j.biocon.2011.12.012,Europe,FRA,PRC,45.417,6.550,45.361147,6.702239,PRC is in here twice...,TBM,NA,NA
+Eryngium_alpinum,Andrello; Bizoux; Barbet-Massin; Gaudeul; Nicolè; Till-Bottraud,Biol Cons,2012,10.1016/j.biocon.2011.12.012,Europe,FRA,PRD,45.417,6.550,45.359778,6.701606,author correspondence,TBM,NA,NA
+Paeonia_officinalis,Andrieu; Freville; Besnord; Vaudey; Gauthier; Thompson; Debussche,Popul Ecol,2013,10.1007/s10144-012-0346-1,Europe,FRA,Open habitat,43.767,3.017,NA,NA,NA,MED,NA,NA
+Paeonia_officinalis,Andrieu; Freville; Besnord; Vaudey; Gauthier; Thompson; Debussche,Popul Ecol,2013,10.1007/s10144-012-0346-1,Europe,FRA,Woodland,43.767,3.017,NA,NA,NA,MED,NA,NA
+Paeonia_officinalis,Andrieu; Freville; Besnord; Vaudey; Gauthier; Thompson; Debussche,Popul Ecol,2013,10.1007/s10144-012-0346-1,Europe,FRA,Managed habitat,43.767,3.017,NA,NA,NA,MED,NA,NA
+Brassica_insularis,Noel; Maurice; Mignot; Glémin; Carbonell; Justy; Guyot; Olivieri; Petit,Cons Genet,2010,10.1007/s10592-010-0056-1,Europe,FRA,Teghime,42.783,9.433,42.669028,9.375817,author correspondence,MED,NA,NA
+Brassica_insularis,Noel; Maurice; Mignot; Glémin; Carbonell; Justy; Guyot; Olivieri; Petit,Cons Genet,2010,10.1007/s10592-010-0056-1,Europe,FRA,Inzecca,42.100,9.267,42.096681,9.299389,author correspondence,MED,NA,NA
+Brassica_insularis,Noel; Maurice; Mignot; Glémin; Carbonell; Justy; Guyot; Olivieri; Petit,Cons Genet,2010,10.1007/s10592-010-0056-1,Europe,FRA,Calcina,41.717,9.350,41.719789,9.354142,author correspondence,MED,NA,NA
+Brassica_insularis,Noel; Maurice; Mignot; Glémin; Carbonell; Justy; Guyot; Olivieri; Petit,Cons Genet,2010,10.1007/s10592-010-0056-1,Europe,FRA,Corbaghiola,42.317,9.133,42.312881,9.128661,author correspondence,MED,NA,NA
+Geranium_sylvaticum_2,Evju; Halvorsen; Rydgren; Austrheim; Mysterud,Plant Ecol,2011,10.1007/s11258-011-9906-2,Europe,NOR,"Hol municipality, Buskerud county (Southern Norway)",60.700,7.950,,,,TUN,NA,NA
+Viola_biflora,Evju; Halvorsen; Rydgren; Austrheim; Mysterud,Oecologia,2010,10.1007/s00442-010-1637-x,Europe,NOR,High sheep density,60.667,8.000,,,,TUN,NA,NA
+Viola_biflora,Evju; Halvorsen; Rydgren; Austrheim; Mysterud,Oecologia,2010,10.1007/s00442-010-1637-x,Europe,NOR,Low sheep density,60.667,8.000,,,,TUN,NA,NA
+Viola_biflora,Evju; Halvorsen; Rydgren; Austrheim; Mysterud,Oecologia,2010,10.1007/s00442-010-1637-x,Europe,NOR,No sheep,60.667,8.000,,,,TUN,NA,NA
+Cypripedium_calceolus,Nicolè; Brzosko; Till-Bottraud,J Ecol,2005,10.1111/j.1365-2745.2005.01010.x,Europe,POL,Zabudnik,53.267,22.650,,,,TBM,NA,NA
+Cypripedium_calceolus,Nicolè; Brzosko; Till-Bottraud,J Ecol,2005,10.1111/j.1365-2745.2005.01010.x,Europe,POL,Pogorzaly,53.267,22.650,,,,TBM,NA,NA
+Cypripedium_calceolus,Nicolè; Brzosko; Till-Bottraud,J Ecol,2005,10.1111/j.1365-2745.2005.01010.x,Europe,POL,Oparzelisko,53.267,22.650,,,,TBM,NA,NA
+Actaea_spicata,Fröborg; Eriksson,Can J Bot,2003,10.1139/B03-099,Europe,SWE,Site A,58.950,17.617,58.948707,17.612246,author correspondence,TBM,NA,NA
+Actaea_spicata,Fröborg; Eriksson,Can J Bot,2003,10.1139/B03-099,Europe,SWE,Site B,58.983,17.550,58.948707,17.612246,author correspondence,TBM,NA,NA
+Ranunculus_peltatus,Idestam-Almquist,PhD thesis,1998,NA,Europe,SWE,Island of Askö,59.133,16.000,,,,TBM,NA,NA
+Agrimonia_eupatoria,Kiviniemi,Plant Ecol,2002,NA,Europe,SWE,A,58.933,17.133,,,,FGS,NA,NA
+Agrimonia_eupatoria,Kiviniemi,Plant Ecol,2002,NA,Europe,SWE,B,58.933,17.133,,,,FGS,NA,NA
+Primula_farinosa_4,Toräng; Ehrlén; Ågren,Oecologia,2010,10.1007/s00442-009-1552-1,Europe,SWE,Tranekärr,56.584,16.517,,,,TBM,NA,NA
+Primula_farinosa_4,Toräng; Ehrlén; Ågren,Oecologia,2010,10.1007/s00442-009-1552-1,Europe,SWE,Dröstorp 1,56.568,16.535,,,,TBM,NA,NA
+Primula_farinosa_4,Toräng; Ehrlén; Ågren,Oecologia,2010,10.1007/s00442-009-1552-1,Europe,SWE,Dröstorp 2,56.584,16.551,,,,TBM,NA,NA
+Mammillaria_huitzilopochtli,Flores-Martinez; Manzanero-Medino; Golubov; Montaña; Mandujano,Plant Ecol,2010,10.1007/s11258-010-9737-6,N America,MEX,S2,17.901,-96.952,NA,NA,NA,TGV,NA,NA
+Mammillaria_huitzilopochtli,Flores-Martinez; Manzanero-Medino; Golubov; Montaña; Mandujano,Plant Ecol,2010,10.1007/s11258-010-9737-6,N America,MEX,S1,17.801,-96.951,NA,NA,NA,TGV,NA,NA
+Opuntia_rastrera,Mandujano; Montaña; Franco; Golubov; Flores-Martinez,Ecology,2001,10.2307/2679864,N America,MEX,Nopalera,26.667,-103.750,,,,DES,NA,NA
+Opuntia_rastrera,Mandujano; Montaña; Franco; Golubov; Flores-Martinez,Ecology,2001,10.2307/2679864,N America,MEX,Grassland,26.667,-103.750,,,,DES,NA,NA
+Tillandsia_macdougallii,Mondragón; Ticktin,Cons Biol,2011,10.1111/j.1523-1739.2011.01691.x,N America,MEX,Santa Catarina Ixtepeji,17.267,-96.567,,,,TSC,NA,NA
+Cirsium_pitcheri_3,Bell; Bowles; McEachern,Book,2003,978-3-642-07869-9,N America,USA,Indiana Dunes West Beach,41.617,-87.200,,,,TGS,NA,NA
+Cirsium_pitcheri_6,Bell; Powell; Bowles,J Wild Manag,2013,10.1002/jwmg.525,N America,USA,Illinois Beach State Park,42.417,-87.800,,,,TGS,NA,NA
+Astragalus_scaphoides_2,Crone; Lesica,Ecology,2004,10.1890/03-0256,N America,USA,Sheep Corral Gulch,45.000,-113.700,,,,DES,NA,NA
+Astragalus_scaphoides_2,Crone; Lesica,Ecology,2004,10.1890/03-0256,N America,USA,McDevitt Creek,45.867,-113.700,,,,DES,NA,NA
+Astragalus_scaphoides_2,Crone; Lesica,Ecology,2004,10.1890/03-0256,N America,USA,Haynes Creek,45.867,-113.700,,,,DES,NA,NA
+Balsamorhiza_sagittata,Crone; Marler; Pearson,J Appl Ecol,2009,10.1111/j.1365-2664.2009.01635.x,N America,USA,Mount Jumbo,46.883,-113.950,,,,TCF,NA,NA
+Cirsium_undulatum,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.133,-99.050,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Echinacea_angustifolia,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.133,-99.050,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Hedyotis_nigricans,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.133,-99.050,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Lesquerella_ovalifolia,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.133,-99.050,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Paronychia_jamesii,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.133,-99.050,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Psoralea_tenuiflora,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.800,-99.200,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Ratibida_columnifera,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.800,-99.200,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Solidago_mollis,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.800,-99.200,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Sphaeralcea_coccinea,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.800,-99.200,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Thelesperma_megapotamicum,Dalgleish; Koons; Adler,J Ecol,2010,10.1111/j.1365-2745.2009.01585.x,N America,USA,Hays,38.800,-99.200,38.8,-99.3,typo in COMPADRE,TGS,NA,NA
+Cirsium_pitcheri_5,Ellis,Ecology,2012,10.1890/11-1052.1,N America,USA,CiPi 4,42.417,-87.800,42.42346,-87.805309,typo in COMPADRE,TGS,NA,NA
+Liatris_scariosa,Ellis,Ecology,2012,10.1890/11-1052.1,N America,USA,Lisc 0,41.517,-87.900,41.51937,-87.90951,typo in COMPADRE,TGS,NA,NA
+Liatris_scariosa,Ellis,Ecology,2012,10.1890/11-1052.1,N America,USA,Lisc 1,41.517,-87.900,41.51937,-87.90951,typo in COMPADRE,TGS,NA,NA
+Liatris_scariosa,Ellis,Ecology,2012,10.1890/11-1052.1,N America,USA,Lisc 2,41.517,-87.900,41.51937,-87.90951,typo in COMPADRE,TGS,NA,NA
+Cirsium_pitcheri_4,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,CiPi 1,41.617,-87.200,41.62268,-87.20911,typo in COMPADRE,TGS,NA,NA
+Cirsium_pitcheri_4,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,CiPi 2,41.667,-87.000,41.67439,-87.01803,typo in COMPADRE,TGS,NA,NA
+Cirsium_pitcheri_4,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,CiPi 3,41.617,-87.250,41.62078,-87.25034,typo in COMPADRE,TGS,NA,NA
+Hypericum_cumulicola_2,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,HYCU_29,27.151,-81.517,27.16327,-81.36482,typo in COMPADRE,TBM,NA,NA
+Hypericum_cumulicola_2,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,HYCU_59,27.151,-81.517,27.13547,-81.36499,typo in COMPADRE,TBM,NA,NA
+Hypericum_cumulicola_2,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,HYCU_67,27.151,-81.517,27.13358,-81.35844,typo in COMPADRE,TBM,NA,NA
+Hypericum_cumulicola_2,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,HYCU_87,27.151,-81.517,27.12428,-81.3524,typo in COMPADRE,TBM,NA,NA
+Hypericum_cumulicola_2,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,HYCU_88,27.151,-81.517,27.12951,-81.36172,typo in COMPADRE,TBM,NA,NA
+Hypericum_cumulicola_2,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,HYCU_91,27.151,-81.517,27.12268,-81.36189,typo in COMPADRE,TBM,NA,NA
+Phyllanthus_emblica_3,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,Ecology,2012,10.1890/11-1052.1,N America,USA,PHEM_1,38.885,77.034,38.8985,-77.0378,typo in COMPADRE,TBM,NA,NA
+Opuntia_macrorhiza_2,Haridas; Keeler; Tenhumberg,Ecology,2015,10.1890/13-1984.1,N America,USA,Plot 52,39.951,-105.201,NA,NA,no response from author,TCF,NA,NA
+Opuntia_macrorhiza_2,Haridas; Keeler; Tenhumberg,Ecology,2015,10.1890/13-1984.1,N America,USA,Plot 57,39.950,-105.250,NA,NA,no response from author,TCF,NA,NA
+Opuntia_macrorhiza_2,Haridas; Keeler; Tenhumberg,Ecology,2015,10.1890/13-1984.1,N America,USA,Plot 28,39.951,-105.251,NA,NA,no response from author,TCF,NA,NA
+Opuntia_macrorhiza_2,Haridas; Keeler; Tenhumberg,Ecology,2015,10.1890/13-1984.1,N America,USA,Plot 61,39.918,-105.234,NA,NA,no response from author,TCF,NA,NA
+Opuntia_macrorhiza_2,Haridas; Keeler; Tenhumberg,Ecology,2015,10.1890/13-1984.1,N America,USA,Plot 102,40.000,-105.268,NA,NA,no response from author,TCF,NA,NA
+Cirsium_pitcheri_8,Jolls; Marik; Hamze; Havens,Biol Cons,2015,10.1016/j.biocon.2015.04.006,N America,USA,Wilderness State Park,45.717,-84.934,NA,NA,NA,TBM,NA,NA
+Horkelia_congesta,Kaye; Benfield,Report,2004,NA,N America,USA,Long Tom ACEC,44.134,-123.285,NA,NA,NA,TGS,NA,NA
+Astragalus_tyghensis,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Site 4,45.167,-121.317,45.159652,-121.310109,from Ellis et al 2012,TGS,NA,NA
+Astragalus_tyghensis,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Site 10,45.167,-121.317,45.162175,-121.310101,from Ellis et al 2012,TGS,NA,NA
+Astragalus_tyghensis,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Site 13,45.150,-121.317,45.153155,-121.322459,from Ellis et al 2012,TGS,NA,NA
+Astragalus_tyghensis,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Site 25,45.233,-121.183,45.231896,-121.177458,from Ellis et al 2012,TGS,NA,NA
+Astragalus_tyghensis,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Site 41,45.250,-121.100,45.243853,-121.095479,from Ellis et al 2012,TGS,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,1in,44.413,-117.300,44.4125,-117.320934,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,2in,44.400,-117.300,44.411729,-117.310928,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,3in,44.400,-117.300,44.479266,-117.326394,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,4in,44.400,-117.300,44.475962,-117.333591,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,5in,44.400,-117.300,44.475962,-117.333591,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,1out,44.400,-117.300,44.4125,-117.320934,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,2out,44.400,-117.300,44.411729,-117.310928,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,3out,44.400,-117.300,44.479266,-117.326394,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,4out,44.400,-117.300,44.475962,-117.333591,from Ellis et al 2012,DES,NA,NA
+Haplopappus_radiatus,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,5out,44.400,-117.300,44.475962,-117.333591,from Ellis et al 2012,DES,NA,NA
+Lomatium_bradshawii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Long Tom,44.150,-123.300,NA,NA,same as paper,TCF,NA,NA
+Lomatium_bradshawii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Rose Prairie 0,44.083,-123.250,NA,NA,same as paper,TCF,NA,NA
+Lomatium_bradshawii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Rose Prairie 1,44.083,-123.250,NA,NA,same as paper,TCF,NA,NA
+Lomatium_bradshawii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Rose Prairie 2,44.083,-123.250,NA,NA,same as paper,TCF,NA,NA
+Lomatium_bradshawii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Fisher Butte 0,44.050,-123.250,NA,NA,same as paper,TCF,NA,NA
+Lomatium_bradshawii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Fisher Butte 1,44.050,-123.250,NA,NA,same as paper,TCF,NA,NA
+Lomatium_bradshawii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Fisher Butte 2,44.050,-123.250,NA,NA,same as paper,TCF,NA,NA
+Lomatium_cookii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,Middle,42.100,-123.633,NA,NA,matches Fig 2 in paper,TGS,NA,NA
+Lomatium_cookii,Kaye; Pyke,Ecology,2003,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,N America,USA,South,42.100,-123.633,NA,NA,matches Fig 2 in paper,TGS,NA,NA
+Astragalus_scaphoides,Lesica,Great Bas Nat,1995,10.2307/2445615,N America,USA,Sheep Corral Gulch,45.000,-113.700,NA,NA,very close to values in Ellis et al 2012,DES,NA,NA
+Astragalus_scaphoides,Lesica,Great Bas Nat,1995,10.2307/2445615,N America,USA,Haynes Creek,45.067,-113.017,NA,NA,very close to values in Ellis et al 2012,DES,NA,NA
+Silene_spaldingii,Lesica; Crone,J Ecol,2007,10.1111/j.1365-2745.2007.01291.x,N America,USA,Eureka,48.967,-115.050,NA,NA,NA,TCF,NA,NA
+Arabis_fecunda,Lesica; Shelly,Am J Bot,1995,10.2307/2445615,N America,USA,Charleys Gulch,46.251,-114.017,NA,NA,very close to values in Ellis et al 2012,TGS,NA,NA
+Arabis_fecunda,Lesica; Shelly,Am J Bot,1995,10.2307/2445615,N America,USA,Lime Gulch,45.385,-112.801,NA,NA,very close to values in Ellis et al 2012,TGS,NA,NA
+Arabis_fecunda,Lesica; Shelly,Am J Bot,1995,10.2307/2445615,N America,USA,Vipond park,45.684,-112.867,NA,NA,very close to values in Ellis et al 2012,TGS,NA,NA
+Purshia_subintegra,Maschinski; Baggs; Quintana-Ascencio; Menges,Cons Biol,2006,10.1111/j.1523-1739.2006.00272.x,N America,USA,Moist,34.733,-111.983,34.734,-111.989,estimated from Fig 1 and Google Maps,DES,NA,NA
+Purshia_subintegra,Maschinski; Baggs; Quintana-Ascencio; Menges,Cons Biol,2006,10.1111/j.1523-1739.2006.00272.x,N America,USA,Dry,34.733,-111.983,34.748,-111.988,estimated from Fig 1 and Google Maps,DES,NA,NA
+Astragalus_cremnophylax_var._cremnophylax,Maschinski; Frye; Rutman,Cons Biol,1997,10.1046/j.1523-1739.1997.96159.x,N America,USA,Grand Canyon National Park,36.101,-112.101,NA,NA,"no coords in paper, but looks fine",DES,NA,NA
+Eryngium_cuneifolium,Menges; Quintana-Ascencio,Ecol Monog,2004,10.1890/03-4029,N America,USA,16,27.133,-81.350,27.18405761,-81.36522783,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Eryngium_cuneifolium,Menges; Quintana-Ascencio,Ecol Monog,2004,10.1890/03-4029,N America,USA,45,27.133,-81.350,27.18256978,-81.3644392,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Eryngium_cuneifolium,Menges; Quintana-Ascencio,Ecol Monog,2004,10.1890/03-4029,N America,USA,54,27.133,-81.350,27.13937718,-81.35721645,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Eryngium_cuneifolium,Menges; Quintana-Ascencio,Ecol Monog,2004,10.1890/03-4029,N America,USA,57,27.133,-81.350,27.13751443,-81.36065195,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Eryngium_cuneifolium,Menges; Quintana-Ascencio,Ecol Monog,2004,10.1890/03-4029,N America,USA,70,27.133,-81.350,27.13061319,-81.35655261,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Eryngium_cuneifolium,Menges; Quintana-Ascencio,Ecol Monog,2004,10.1890/03-4029,N America,USA,72,27.133,-81.350,27.12930263,-81.35777337,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Eryngium_cuneifolium,Menges; Quintana-Ascencio,Ecol Monog,2004,10.1890/03-4029,N America,USA,85,27.133,-81.350,27.12618444,-81.35876721,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Eryngium_cuneifolium,Menges; Quintana-Ascencio,Ecol Monog,2004,10.1890/03-4029,N America,USA,91,27.133,-81.350,27.12328133,-81.3620501,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Dicerandra_frutescens,Menges; Quintana-Ascencio; Weekley; Gaoue,Biol Cons,2006,10.1016/j.biocon.2005.08.002,N America,USA,Fireline Edge 1 (Pop 0),27.151,-81.351,,,,TCF,NA,NA
+Dicerandra_frutescens,Menges; Quintana-Ascencio; Weekley; Gaoue,Biol Cons,2006,10.1016/j.biocon.2005.08.002,N America,USA,Fireline Edge 2 (Pop 11),27.151,-81.351,,,,TCF,NA,NA
+Dicerandra_frutescens,Menges; Quintana-Ascencio; Weekley; Gaoue,Biol Cons,2006,10.1016/j.biocon.2005.08.002,N America,USA,Sand pine scrub 1 (Pop 2),27.151,-81.351,,,,TCF,NA,NA
+Dicerandra_frutescens,Menges; Quintana-Ascencio; Weekley; Gaoue,Biol Cons,2006,10.1016/j.biocon.2005.08.002,N America,USA,Sand pine scrub 2 (Pop 4),27.151,-81.351,,,,TCF,NA,NA
+Dicerandra_frutescens,Menges; Quintana-Ascencio; Weekley; Gaoue,Biol Cons,2006,10.1016/j.biocon.2005.08.002,N America,USA,Oak-hickory scrub 1 (Pop 10),27.151,-81.351,,,,TCF,NA,NA
+Dicerandra_frutescens,Menges; Quintana-Ascencio; Weekley; Gaoue,Biol Cons,2006,10.1016/j.biocon.2005.08.002,N America,USA,Oak-hickory scrub 3 (Pop 19),27.151,-81.351,,,,TCF,NA,NA
+Dicerandra_frutescens,Menges; Quintana-Ascencio; Weekley; Gaoue,Biol Cons,2006,10.1016/j.biocon.2005.08.002,N America,USA,Yard Edge (Pop 24),27.151,-81.351,,,,TCF,NA,NA
+Dicerandra_frutescens,Menges; Quintana-Ascencio; Weekley; Gaoue,Biol Cons,2006,10.1016/j.biocon.2005.08.002,N America,USA,Oak-hickory scrub 2 (Pop 12),27.151,-81.351,,,,TCF,NA,NA
+Silene_acaulis,Morris; Doak,Am J Bot,1998,NA,N America,USA,Campion Crest,61.550,-142.817,NA,NA,omit b/c alpine/tundra?,BOR,NA,NA
+Silene_acaulis,Morris; Doak,Am J Bot,1998,NA,N America,USA,Gulch,61.483,-142.883,NA,NA,omit b/c alpine/tundra?,BOR,NA,NA
+Silene_acaulis,Morris; Doak,Am J Bot,1998,NA,N America,USA,Pass,61.550,-142.833,NA,NA,omit b/c alpine/tundra?,BOR,NA,NA
+Silene_acaulis,Morris; Doak,Am J Bot,1998,NA,N America,USA,Rock Glacier,61.550,-142.833,NA,NA,omit b/c alpine/tundra?,BOR,NA,NA
+Silene_acaulis,Morris; Doak,Am J Bot,1998,NA,N America,USA,Ridge,61.550,-142.817,NA,NA,omit b/c alpine/tundra?,BOR,NA,NA
+Pyrrocoma_radiata,Pfingsten,PhD thesis,2013,NA,N America,USA,South-facing slope,44.401,-117.317,44.412,-117.322,values in Table 1 of thesis,DES,NA,NA
+Pyrrocoma_radiata,Pfingsten,PhD thesis,2013,NA,N America,USA,"Gentle, east-facing slope",44.401,-117.301,44.412,-117.313,values in Table 1 of thesis,DES,NA,NA
+Pyrrocoma_radiata,Pfingsten,PhD thesis,2013,NA,N America,USA,"Gentle, west-facing slope",44.468,-117.318,44.479,-117.327,values in Table 1 of thesis,DES,NA,NA
+Pyrrocoma_radiata,Pfingsten,PhD thesis,2013,NA,N America,USA,West-facing slope,44.468,-117.318,44.476,-117.333,values in Table 1 of thesis,DES,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site1; > 21 years after fire,27.167,-81.350,27.20056086,-81.35567546,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site29; 9-10 years after fire,27.167,-81.350,27.16337004,-81.36354982,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site29; 10-11 years after fire,27.167,-81.350,27.16337004,-81.36354982,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site29; 11-12 years after fire,27.167,-81.350,27.16337004,-81.36354982,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site29; 12-13 years after fire,27.167,-81.350,27.16337004,-81.36354982,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site29; 13-14 years after fire,27.167,-81.350,27.16337004,-81.36354982,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site32;  > 21 years after fire,27.167,-81.350,27.16045686,-81.36274318,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site32; 1-2 years after fire,27.167,-81.350,27.16045686,-81.36274318,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site32; 2-3 years after fire,27.167,-81.350,27.16045686,-81.36274318,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site42; 2-3 years after fire,27.167,-81.350,27.14598277,-81.36456851,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site42;  3-4 years after fire,27.167,-81.350,27.14598277,-81.36456851,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site42;  4-5 years after fire,27.167,-81.350,27.14598277,-81.36456851,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site42; 5-6 years after fire,27.167,-81.350,27.14598277,-81.36456851,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site42; 6-7 years after fire,27.167,-81.350,27.14598277,-81.36456851,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site45; 8-9 years after fire,27.167,-81.350,27.18256978,-81.3644392,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site45;  9-10 years after fire,27.167,-81.350,27.18256978,-81.3644392,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site45;  10-11 years after fire,27.167,-81.350,27.18256978,-81.3644392,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site45; 11-12 years after fire,27.167,-81.350,27.18256978,-81.3644392,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site45; 12-13 years after fire,27.167,-81.350,27.18256978,-81.3644392,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site50; 2-3 years after fire,27.167,-81.350,27.13959375,-81.36304533,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site50; 3-4 years after fire,27.167,-81.350,27.13959375,-81.36304533,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site50;  4-5 years after fire,27.167,-81.350,27.13959375,-81.36304533,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site50; 5-6 years after fire,27.167,-81.350,27.13959375,-81.36304533,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site50; 6-7 years after fire,27.167,-81.350,27.13959375,-81.36304533,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site57; 2-3 years after fire,27.167,-81.350,27.13751443,-81.36065195,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site57; 3-4 years after fire,27.167,-81.350,27.13751443,-81.36065195,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site57;  4-5 years after fire,27.167,-81.350,27.13751443,-81.36065195,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site57; 5-6 years after fire,27.167,-81.350,27.13751443,-81.36065195,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site57; 6-7 years after fire,27.167,-81.350,27.13751443,-81.36065195,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site59;  > 21 years after fire,27.167,-81.350,27.13591948,-81.36525318,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site62;  > 21 years after fire,27.167,-81.350,27.13522067,-81.35935104,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site67;  8 - 9 years after fire,27.167,-81.350,27.13157281,-81.3598433,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site67;  9 - 10 years after fire,27.167,-81.350,27.13157281,-81.3598433,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site67;  10 - 11 years after fire,27.167,-81.350,27.13157281,-81.3598433,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site67;  11 - 12 years after fire,27.167,-81.350,27.13157281,-81.3598433,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site67; 12 - 13 years after fire,27.167,-81.350,27.13157281,-81.3598433,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site87;  9 - 10 years after fire,27.167,-81.350,27.12516283,-81.35718955,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site87;  10 -  11 years after fire,27.167,-81.350,27.12516283,-81.35718955,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site87;  11 - 12 years after fire,27.167,-81.350,27.12516283,-81.35718955,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site87;  12 - 13 years after fire,27.167,-81.350,27.12516283,-81.35718955,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site87;  13 - 14 years after fire,27.167,-81.350,27.12516283,-81.35718955,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site88;  8 - 9 years after fire,27.167,-81.350,27.12557736,-81.36033539,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site88;  9 - 10 years after fire,27.167,-81.350,27.12557736,-81.36033539,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site88;  10 - 11 years after fire,27.167,-81.350,27.12557736,-81.36033539,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site88;  11 - 12 years after fire,27.167,-81.350,27.12557736,-81.36033539,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site88;  12 - 13 years after fire,27.167,-81.350,27.12557736,-81.36033539,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site91;  8 - 9 years after fire,27.167,-81.350,27.12328133,-81.3620501,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site91;  9 - 10 years after fire,27.167,-81.350,27.12328133,-81.3620501,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site91;  10 - 11 years after fire,27.167,-81.350,27.12328133,-81.3620501,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site91;  11 - 12 years after fire,27.167,-81.350,27.12328133,-81.3620501,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site91;  12 - 13 years after fire,27.167,-81.350,27.12328133,-81.3620501,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Hypericum_cumulicola,Quintana-Ascencio; Menges; Weekley,Cons Biol,2003,10.1046/j.1523-1739.2003.01431.x,N America,USA,Site93;  > 21 years after fire,27.167,-81.350,27.12136792,-81.36190474,from Pedro Quintana-Ascencio <Pedro.Quintana-Ascencio@ucf.edu>,TCF,NA,NA
+Trillium_ovatum,Ream,PhD thesis,2011,NA,N America,USA,"Big Creek, Bitterroot Valley (Bitterroot National Forest)",46.451,-114.201,46.46466667,-114.2112333,thesis pg. 41,TCF,NA,NA
+Trillium_ovatum,Ream,PhD thesis,2011,NA,N America,USA,"Grant Creek, Missoula Valley (Lolo National Forest)",46.984,-113.983,46.98885,-113.9844333,thesis pg. 41,TCF,NA,NA
+Trillium_ovatum,Ream,PhD thesis,2011,NA,N America,USA,"Spring Gulch, Rattlesnake drainage (Lolo National Forest)",46.934,-113.967,46.9416,-113.9695167,thesis pg. 41,TCF,NA,NA
+Eriogonum_longifolium_var._gnaphalifolium_2,Satterthwaite; Menges; Quintana-Ascencio,Ecol Appl,2002,10.1890/1051-0761(2002)012[1672:ASBPVI]2.0.CO;2,N America,USA,Unburned,27.183,-81.350,NA,NA,coords look good,TCF,NA,NA
+Eriogonum_longifolium_var._gnaphalifolium_2,Satterthwaite; Menges; Quintana-Ascencio,Ecol Appl,2002,10.1890/1051-0761(2002)012[1672:ASBPVI]2.0.CO;2,N America,USA,Burned,27.183,-81.350,NA,NA,coords look good,TCF,NA,NA
+Eriogonum_longifolium_var._gnaphalifolium_2,Satterthwaite; Menges; Quintana-Ascencio,Ecol Appl,2002,10.1890/1051-0761(2002)012[1672:ASBPVI]2.0.CO;2,N America,USA,After burn,27.183,-81.350,NA,NA,coords look good,TCF,NA,NA
+Cypripedium_fasciculatum,Thorpe; Stanley; Kayne; Latham,Report,2011,NA,N America,USA,Region 3,42.333,-123.517,NA,NA,no response from author (regions quite broad),TCF,NA,NA
+Cypripedium_fasciculatum,Thorpe; Stanley; Kayne; Latham,Report,2011,NA,N America,USA,Region 4,42.250,-123.167,NA,NA,no response from author (regions quite broad),TCF,NA,NA
+Cypripedium_fasciculatum,Thorpe; Stanley; Kayne; Latham,Report,2011,NA,N America,USA,Region 5,42.333,-122.450,NA,NA,no response from author (regions quite broad),TCF,NA,NA
+Cleistes_divaricata_var._bifaria,Wells; Willems,Book,1991,10.2307/2261246,N America,USA,Morningside Nature Center,29.650,-82.283,NA,NA,PB requested book via ILL (two BigIsland sites far apart),TBM,NA,NA
+Cleistes_divaricata_var._bifaria,Wells; Willems,Book,1991,10.2307/2261246,N America,USA,Big Island,29.650,-82.283,NA,NA,PB requested book via ILL (two BigIsland sites far apart),TBM,NA,NA
+Cleistes_divaricata_var._bifaria,Wells; Willems,Book,1991,10.2307/2261246,N America,USA,Beavers Meadow,39.268,-79.918,NA,NA,PB requested book via ILL (two BigIsland sites far apart),TBM,NA,NA
+Cleistes_divaricata_var._divaricata,Wells; Willems,Book,1991,10.2307/2261246,N America,USA,Big Island,34.083,-78.300,NA,NA,PB requested book via ILL (two BigIsland sites far apart),TBM,NA,NA

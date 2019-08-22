@@ -1,0 +1,26 @@
+SpeciesAuthor,MatrixTreatment,Authors,DOI.ISBN,Comment,vote
+Astragalus_cremnophylax_var._cremnophylax,Protected,Maschinski; Frye; Rutman,10.1046/j.1523-1739.1997.96159.x,,out
+Balsamorhiza_sagittata,Herbicide picloram,Crone; Marler; Pearson,10.1111/j.1365-2664.2009.01635.x,"the herbicide influences inflorescense production by 33%, BUT: The study has 4 plots, 2 with herbicide and two without. Why is there only one plot from that study in this subset?",out
+Cirsium_pitcheri_5,Transplanted plants,Ellis,10.1890/11-1052.1,,out
+Cleistes_divaricata_var._bifaria,Mown,Wells; Willems,10.2307/2261246,,out
+Cypripedium_calceolus,"Dunes, Tilio-Carpinetum forest patches, Calamagrostis epigeios patches",Nicolè; Brzosko; Till-Bottraud,10.1111/j.1365-2745.2005.01010.x,keywords are not in the paper. ,keep
+Dicerandra_frutescens,Fire,Menges; Quintana-Ascencio; Weekley; Gaoue,10.1016/j.biocon.2005.08.002,,out
+Eriogonum_longifolium_var._gnaphalifolium_2,After burn,Satterthwaite; Menges; Quintana-Ascencio,10.1890/1051-0761(2002)012[1672:ASBPVI]2.0.CO;2,,out
+Eriogonum_longifolium_var._gnaphalifolium_2,Burned,Satterthwaite; Menges; Quintana-Ascencio,10.1890/1051-0761(2002)012[1672:ASBPVI]2.0.CO;2,,out
+Haplopappus_radiatus,Grazed,Kaye; Pyke,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,,keep
+Hypericum_cumulicola_2,Long unburned,Ellis; Williams; Lesica; Bell; Bierzychudek; Bowles; Crone; Doak; Ehrlén; Ellis-Adam; McEachern; Ganesan; Latham; Luijten; Kaye; Knight; Menges; Morris; Den Nijs; Oostermeijer; Quintana-Ascencio; Shelly; Stanley; Thorpe; Ticktin; Valverde; Weekley,10.1890/11-1052.1,,keep
+Lomatium_bradshawii,Burned,Kaye; Pyke,10.1890/0012-9658(2003)084[1464:TEOSTO]2.0.CO;2,,out
+Mammillaria_huitzilopochtli,Disturbed,Flores-Martinez; Manzanero-Medino; Golubov; Montaña; Mandujano,10.1007/s11258-010-9737-6,ranked normal disturbances,keep
+Phyllanthus_emblica_2,Fruit harvesting and lantana cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_emblica_2,Fruit harvesting and mistletoe and lantana cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_emblica_2,Fruit harvesting and mistletoe cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_emblica_2,Fruit harvesting and no cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_emblica_2,Lantana cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_emblica_2,Mistletoe and lantana cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_emblica_2,Mistletoe cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_indofischeri,Fruit harvesting and Mistletoe cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_indofischeri,Fruit harvesting and no cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Phyllanthus_indofischeri,Mistletoe cover,Ticktin; Ganesan; Paramesha; Setty,10.1111/j.1365-2664.2012.02156.x,"reaction to invasive species, problem for me is more the fruit harvesting",out
+Primula_veris_3,Grazing,Jacquemyn; Brys; Davison; Tuljapurkar; Jongejans,10.1111/j.1600-0706.2011.19774.x,,keep
+Primula_veris_3,Mown,Jacquemyn; Brys; Davison; Tuljapurkar; Jongejans,10.1111/j.1600-0706.2011.19774.x,,out
+Viola_biflora,Grazing,Evju; Halvorsen; Rydgren; Austrheim; Mysterud,10.1007/s00442-010-1637-x,,keep
