@@ -100,7 +100,9 @@ comp_sub <- compadre %>%
   mutate(loglam = map_dbl(matA(mat), ~ log(popbio::lambda(.x)))) %>%
   mutate(MatrixEndMonth = ifelse(MatrixEndMonth == "8/9", "9", MatrixEndMonth)) %>% 
   mutate(MatrixEndMonth = ifelse(is.na(MatrixEndMonth), "8", MatrixEndMonth)) %>%
-  mutate(date = paste("01", MatrixEndMonth, MatrixEndYear, sep = "/"))
+  mutate(date = paste("01", MatrixEndMonth, MatrixEndYear, sep = "/")) %>% 
+  mutate(SpeciesAuthor = sapply(SpeciesAuthor, spp_short))
+  
 
 spp_summary <- comp_sub %>% 
   as_tibble() %>% 
@@ -116,40 +118,11 @@ spp_summary <- comp_sub %>%
   arrange(ecoreg)
 
 # write.csv(spp_summary, "data/end_months.csv", row.names = FALSE)
-
+unique(comp_sub$SpeciesAuthor)
 
 
 ### run climwin analysis for each species in spp_summary
 # takes ~12 hours
 
-# temperature
-tmp_list <- list()
 
-for (i in 1:nrow(spp_summary)) {
-  dat <- filter(comp_sub, SpeciesAuthor == spp_summary$SpeciesAuthor[i])
-  tmp_list[[i]] <- climwin_summary(dat, var = "tmp_scale")
-}
-
-# precipitation
-ppt_list <- list()
-
-for (i in 1:nrow(spp_summary)) {
-  dat <- filter(comp_sub, SpeciesAuthor == spp_summary$SpeciesAuthor[i])
-  ppt_list[[i]] <- climwin_summary(dat, var = "ppt_scale")
-}
-
-
-# # convert p-values to character
-# for (i in 1:nrow(spp_summary)) {
-#   tmp_list[[i]]$p_a <- as.character(tmp_list[[i]]$p_a)
-#   ppt_list[[i]]$p_a <- as.character(ppt_list[[i]]$p_a)
-# }
-
-
-### write results to file
-tmp_out <- bind_rows(tmp_list)
-ppt_out <- bind_rows(ppt_list)
-
-write.csv(tmp_out, "output/climwin_tmp.csv", row.names = FALSE)
-write.csv(ppt_out, "output/climwin_ppt.csv", row.names = FALSE)
 
