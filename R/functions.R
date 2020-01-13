@@ -37,7 +37,7 @@ climwin_summary <- function(dat, var = "tmp_scale") {
                         spatial = list(dat$MatrixPopulation, clim$MatrixPopulation))
   
   # randomization
-  RandWin <- randwin(repeats = 60,
+  RandWin <- randwin(repeats = 1000,
                      xvar = list(Temp = clim[[var]]),
                      cdate = clim$date,
                      bdate = dat$date,
